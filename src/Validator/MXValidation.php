@@ -7,13 +7,6 @@ use Einself\DnsValidator\Exception\ValidateException;
 
 class MXValidation implements Validator
 {
-    private $record;
-
-    public function __construct($record)
-    {
-        $this->record = $record;
-    }
-
     /**
      * @inheritdoc
      */
