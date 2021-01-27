@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Rules;
+namespace Einself\DnsValidator\Rules;
 
 use Illuminate\Contracts\Validation\Rule;
 use Einself\DnsValidator\Contracts\DnsValidator;
