@@ -2,7 +2,7 @@
     "name": "1elf-me/dnsvalidator",
     "description": "",
     "type": "library",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "1elf",
